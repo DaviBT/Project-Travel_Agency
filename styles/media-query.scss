@@ -62,7 +62,7 @@
 
 @media screen and (min-width:1200px){
     html{
-        font-size:55%;
+        font-size:70%;
     }
 
     header{
@@ -88,13 +88,21 @@
             }
         }
     }
-    .about{
-        .content{
+    .about > .content{
             text-align:left;
+            p{
+                margin:.2rem;
+            }
         }
     }
 
     .blog > .box-container{
     align-items: center;
     }
-}
+
+    .services{
+        .box-container{
+            grid-template-columns:repeat(auto-fit, minmax(40rem, 1fr))
+        }
+    }
+

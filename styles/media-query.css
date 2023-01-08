@@ -47,7 +47,7 @@
 }
 @media screen and (min-width: 1200px) {
   html {
-    font-size: 55%;
+    font-size: 70%;
   }
   header a.logo {
     margin-left: 0;
@@ -68,10 +68,17 @@
   header .inline a:hover {
     color: #EB455F;
   }
-  .about .content {
+  .about > .content {
     text-align: left;
   }
-  .blog > .box-container {
-    align-items: center;
+  .about > .content p {
+    margin: 0.2rem;
   }
+}
+.blog > .box-container {
+  align-items: center;
+}
+
+.services .box-container {
+  grid-template-columns: repeat(auto-fit, minmax(40rem, 1fr));
 }/*# sourceMappingURL=media-query.css.map */
