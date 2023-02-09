@@ -7,14 +7,22 @@ It's total responsive, was created with the mobile first philosophy. JavaScript 
 
 <h2>Project Preview</h2>
 
-<h3 style="text-align:center;">Extra Large Screens</h3>
-<img margin="auto" src="https://github.com/DaviBT/Project-Travel_Agency/blob/main/images/wetravel.png"> 
+<h3  align="center">Extra Large Screens</h3>
+<div align="center" >
+<img src="https://github.com/DaviBT/Project-Travel_Agency/blob/main/images/wetravel.png"> 
+</div>
 
-<h3 style="text-align:center;">Large Screens</h3>
-<img margin="auto" src="https://github.com/DaviBT/Project-Travel_Agency/blob/main/images/wetravel-large.png">
+<h3  align="center">Large Screens</h3>
+<div align="center">
+<img  src="https://github.com/DaviBT/Project-Travel_Agency/blob/main/images/wetravel-large.png">
+</div>
 
-<h3 style="text-align:center;">Small Screens</h3>
-<img margin="auto" src="https://github.com/DaviBT/Project-Travel_Agency/blob/main/images/wetrvel-small.png">
+<h3  align="center">Small Screens</h3>
+<div align="center">
+<img  src="https://github.com/DaviBT/Project-Travel_Agency/blob/main/images/wetrvel-small.png">
+</div>
 
-<h3 style="text-align:center;">Extra Small Screens</h3>
-<img margin="auto" src="https://github.com/DaviBT/Project-Travel_Agency/blob/main/images/wetravel-extrasmall.png">
+<h3  align="center">Extra Small Screens</h3>
+<div align="center">
+<img  src="https://github.com/DaviBT/Project-Travel_Agency/blob/main/images/wetravel-extrasmall.png">
+</div>
